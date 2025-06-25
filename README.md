@@ -29,8 +29,8 @@
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nasrinsultana&show_icons=true&theme=rose_pine&hide_title=false" width="47%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nasrinsultana&layout=compact&theme=rose_pine" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ebtesham1240&show_icons=true&theme=rose_pine&hide_title=false" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ebtesham1240&layout=compact&theme=rose_pine" width="47%" />
 </p>
 
 ---
