@@ -26,21 +26,6 @@
 
 ---
 
-<h2 align="center">📌 Featured Projects</h2>
-
-> 👇 Click to explore some of my favorite projects:
-
-- 🌿 **[Tree Tracker Website](#)**  
-  A platform to register tree plantations and promote green growth in Bangladesh.
-
-- 📊 **[Course Feedback System](#)**  
-  University project to collect and analyze student feedback on courses.
-
-- 🌐 **[Personal Portfolio (Coming Soon)](#)**  
-  A stylish portfolio to showcase my journey, skills & contact info.
-
----
-
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
